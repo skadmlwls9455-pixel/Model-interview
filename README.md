@@ -1,5 +1,9 @@
 # Model Interview: 모델 자기보고 조사 명세
 
+> **상태: 설계 단계** · 아이디어와 실험 설계만 있고, 아직 실행한 실험이나 결과는 없다.
+>
+> **Status: design stage** · Ideas and experiment design only. No experiments have been run yet, so there are no results.
+
 **작성자:** Katherine Nahm (남의진) · **작성일:** 2026-11-03
 
 > © 2026 Katherine Nahm. All rights reserved. 인용·참고 시 출처(작성자 이름과 이 저장소 링크)를 밝혀 주세요.
